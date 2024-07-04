@@ -278,3 +278,4 @@ C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net6.0\runtimes\win\lib\n
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net6.0\Syncfusion.EJ2.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net6.0\Syncfusion.Licensing.dll
 C:\Users\leckson\source\repos\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leckson\source\repos\ExpenseTracker\obj\Debug\net6.0\ExpenseTracker.sourcelink.json

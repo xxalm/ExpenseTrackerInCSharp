@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Reflection.Metadata.Ecma335;
+
 
 namespace ExpenseTracker.Models {
     public class Transaction {
@@ -9,7 +9,7 @@ namespace ExpenseTracker.Models {
         public int TransactionId { get; set; }
 
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public Category? Category { get; set; }
 
         public int Amount { get; set; }
 
