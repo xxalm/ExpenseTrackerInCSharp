@@ -17,8 +17,6 @@ C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\ExpenseTracker.run
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\ExpenseTracker.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\ExpenseTracker.pdb
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Humanizer.dll
-C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\MessagePack.dll
-C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\MessagePack.Annotations.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.Build.dll
@@ -50,7 +48,6 @@ C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.Identity
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
-C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
@@ -276,3 +273,4 @@ C:\Users\leckson\source\repos\ExpenseTracker\obj\Debug\net7.0\refint\ExpenseTrac
 C:\Users\leckson\source\repos\ExpenseTracker\obj\Debug\net7.0\ExpenseTracker.pdb
 C:\Users\leckson\source\repos\ExpenseTracker\obj\Debug\net7.0\ExpenseTracker.genruntimeconfig.cache
 C:\Users\leckson\source\repos\ExpenseTracker\obj\Debug\net7.0\ref\ExpenseTracker.dll
+C:\Users\leckson\source\repos\ExpenseTracker\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
