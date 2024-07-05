@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hpMAq3tsqh9NCqN9KOATFehpBnUpoboVL74Yp33tyJM=",
+  "Hash": "yncB+tdd8AXwCZGvvLhQmD6MH+gFwtj1Etv5NG10kTE=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -1250,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\leckson\\source\\repos\\ExpenseTracker\\wwwroot\\profile.jpg",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\leckson\\source\\repos\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "_content/ExpenseTracker",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile.jpg"
     }
   ]
 }

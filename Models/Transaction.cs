@@ -31,7 +31,7 @@ namespace ExpenseTracker.Models {
         [NotMapped]
         public string? FormattedAmount {
             get {
-                return ((Category == null || Category.Type == "Expense") ? "- " : "+ ") + Amount.ToString("C0");
+                return ((Category == null || Category.Type == "Expense") ? "- " : "+ ") + Amount.ToString("C0", new System.Globalization.CultureInfo("en-US"));
             }
         }
 
